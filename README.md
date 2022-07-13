@@ -18,6 +18,7 @@ Perhaps a good place for newbies to start.
 This wiki is available in multiple languages.
 - [English](README.md)
 - [Chinese](CN/README_CN.md)
+- [French](FR/README_FR.md)
 
 Contents in this wiki:
 - [Logic Schematics](EN/schematics.md)
