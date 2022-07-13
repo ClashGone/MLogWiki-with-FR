@@ -1,0 +1,62 @@
+<h1 align="center">Wiki de la Logique Mindustry</h1>
+<p align="center" style="font-style:italic">
+Ce wiki est fait pour la version v7 de Mindustry et est toujours en développement.
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anuken/Mindustry/master/core/assets-raw/sprites/blocks/logic/micro-processor.png" width="100">
+</p>
+<p align="center">
+Un wiki pour la logique de Mindustry.
+Un bon point de départ pour les novices.
+</p>
+<div></div>
+
+
+
+# Contenu
+
+Ce wiki est disponible dans plusieurs langues.
+- [Anglais](README.md)
+- [Chinois](CN/README_CN.md)
+- [Français](FR/README_FR.md)
+
+Contenus du wiki:
+- [Schématiques avec logique](FR/schematics.md)
+- [Prints](FR/print.md)
+- [Variables](FR/variables.md)
+- [Set](FR/set.md)
+- [Operation](FR/op.md)
+- [Control flow (jumping)](FR/controlflow.md)
+- [Unit Bind](FR/ubind.md)
+- [Getlink](FR/getlink.md)
+- [Lookup](FR/lookup.md)
+- [Editing](FR/editing.md)
+
+
+# Liens utiles
+
+En plus de ce wiki, ces liens peuvent aider à comprendre la logique de Mindustry:
+- [FAQ sur la logique par Highfire1 (dans le Discord Mindustry)](https://discord.com/channels/391020510269669376/742769933926269069/869780706052694036)
+- [Wiki officiel de Mindustry](https://mindustrygame.github.io/wiki/logic/0-introduction/)
+- [Tableur des items livrés/seconde pour chaque unité](https://docs.google.com/spreadsheets/d/1SSjyXksK-T47bs8-kjzEd0IY8GRl9gsZrn_UYB6NLDg/edit?usp=sharing)
+
+# Contribuer
+
+Pour contribuer en ajoutant du contenu ou en suggérant une amélioration,
+merci d'envoyer un Pull Request.
+
+Classification des fichiers par langue ("lang" suit le format 2 lettres des bundles Mindustry):
+```
+README.md
+EN/
+*   (contenus du wiki)
+(lang)/
+*   README_(lang).md
+*   (contenus du wiki)
+```
+
+# À faire
+
+- Ajouter des images pour illustrer les exemples du wiki.
+- Traduire en d'autres langues.
+- *Logo du wiki?*
